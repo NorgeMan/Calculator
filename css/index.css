@@ -1,0 +1,23 @@
+.IV-calculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 202px;
+    border: 1px solid black;
+}
+
+.IV-calculator .operations-block button {
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+.IV-calculator .inputs-block .input-block label {
+    display: block;
+    padding: 10px;
+}
+
+.IV-calculator .inputs-block .input-block {
+    display: inline-block;
+}
